@@ -1,0 +1,11 @@
+/* index/index.wxss */
+.title{
+  color:red;
+  font-size: 30px;
+}
+
+.title2{
+  color:green;
+  font-size: 30px;
+
+}
